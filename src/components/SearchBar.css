@@ -1,10 +1,10 @@
-.searchBar {
+.search-bar {
   width: 100%;
   display: flex;
   justify-content: center;
 }
 
-.searchBar label {
+.search-bar label {
   font-size: 3vh;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 800;
@@ -12,7 +12,7 @@
   margin-right: 8px;
 }
 
-.searchBar input {
+.search-bar input {
   width: 50vw;
   height: 5vh;
   font-size: 2vh;
