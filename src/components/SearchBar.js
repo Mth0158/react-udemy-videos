@@ -12,7 +12,7 @@ const SearchBar = ({ onTermSubmit }) => {
   return (
     <div className="search-bar">
       <form onSubmit={onSubmit}>
-        <label>Search</label>
+        <label>BB Search</label>
         <input
           type="text"
           value={term}
